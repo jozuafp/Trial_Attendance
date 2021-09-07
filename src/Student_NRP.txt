@@ -1,0 +1,142 @@
+[
+  {
+    "id": 181116001,
+    "name": "MARISKA SERLY DIANTI",
+    "present": false
+  },
+  {
+    "id": 181116002,
+    "name": "ERLINA NOVITA PUTRI",
+    "present": false
+  },
+  {
+    "id": 181116003,
+    "name": "SHAFIRA PRAMATANA RACHMADANTI",
+    "present": false
+  },
+  {
+    "id": 181116012,
+    "name": "PRIMA LISTIANTI",
+    "present": false
+  },
+  {
+    "id": 181116013,
+    "name": "AYU SETYA NINGTYAS",
+    "present": false
+  },
+  {
+    "id": 181116014,
+    "name": "AVILIA NUR ISTIQOMAH",
+    "present": false
+  },
+  {
+    "id": 181116015,
+    "name": "YOHANA ADELA IMELGA PUSPITA",
+    "present": false
+  },
+  {
+    "id": 181116017,
+    "name": "TITANIA PUTRI KUMALA DEWI",
+    "present": false
+  },
+  {
+    "id": 181116018,
+    "name": "ADI PRASETYO",
+    "present": false
+  },
+  {
+    "id": 181116020,
+    "name": "RIZKY ADITAMA",
+    "present": false
+  },
+  {
+    "id": 181116026,
+    "name": "WELLY KUSWANTO",
+    "present": false
+  },
+  {
+    "id": 181116037,
+    "name": "BAGUS ADITAMA PRAMANA PUTRA",
+    "present": false
+  },
+  {
+    "id": 181116039,
+    "name": "FAKHRUDDIN IVAN SETYOPRADANA",
+    "present": false
+  },
+  {
+    "id": 181116042,
+    "name": "INDRA DWI PRASETYO",
+    "present": false
+  },
+  {
+    "id": 181116051,
+    "name": "BAGUS MUHAIMINUL AZIZ",
+    "present": false
+  },
+  {
+    "id": 181116052,
+    "name": "FERRY FERNANDO",
+    "present": false
+  },
+  {
+    "id": 181116056,
+    "name": "MOHAMAD RIZKY REYNALDY",
+    "present": false
+  },
+  {
+    "id": 181116058,
+    "name": "MOCHAMMAD SYAHRIL NUR FAUZI",
+    "present": false
+  },
+  {
+    "id": 181116062,
+    "name": "MARCHO ARI PRAYOGO",
+    "present": false
+  },
+  {
+    "id": 181116064,
+    "name": "MIFTAHUL ROHMAH",
+    "present": false
+  },
+  {
+    "id": 181116069,
+    "name": "MIFTAHUL",
+    "present": false
+  },
+  {
+    "id": 191111003,
+    "name": "CHRISTIAN YOHANES PRIONO",
+    "present": false
+  },
+  {
+    "id": 191116010,
+    "name": "HANNAH FITRI NUR AISYAH",
+    "present": false
+  },
+  {
+    "id": 201116006,
+    "name": "PRASETYA ADI ARFANTO",
+    "present": false
+  },
+  {
+    "id": 201116007,
+    "name": "MUHAMAD FERDIANTO",
+    "present": false
+  },
+  {
+    "id": 201116009,
+    "name": "RUBY KUSUMAWARDHANI",
+    "present": false
+  },
+  {
+    "id": 201116013,
+    "name": "JACKY ICHWAN",
+    "present": false
+  },
+  {
+    "id": 201116014,
+    "name": "DIMAS YOGA ANUGERAH",
+    "present": false
+  }
+]
